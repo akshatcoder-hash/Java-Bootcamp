@@ -1,2 +1,2 @@
-# java-bootcamp-code
-Code of the assignment solutions and Course during Java Bootcamp.
+# Java Bootcamp Code
+Code of the bootcamp and assignments while learning java.
