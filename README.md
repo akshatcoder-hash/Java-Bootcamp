@@ -3,3 +3,4 @@
 
 
 Code of lectures and assignments while learning java.
+- All the code is written in IntelliJ IDEA Ultimate
